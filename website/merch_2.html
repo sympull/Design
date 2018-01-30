@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<!-- saved from url=(0039)http://getbootstrap.com/examples/cover/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../pics/sympull.ico">
+
+    <!-- social CSS -->
+
+<style type="text/css">
+.social {
+    margin: 0;
+    padding: 0px;
+}
+
+.social ul {
+    margin: 0;
+    padding: 0px;
+}
+
+.social ul li {
+    margin: 0px;
+    list-style: none outside none;
+    display: inline-block;
+}
+
+.social i {
+    width: 22px;
+    height: 22px;
+    color: #FFF;
+    background-color: #909AA0;
+    font-size: 13px;
+    text-align:center;
+    padding-top: 6px;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+    transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s;
+    -webkit-transition: all ease 0.3s;
+    -o-transition: all ease 0.3s;
+    -ms-transition: all ease 0.3s;
+}
+
+.social i:hover {
+    color: #FFF;
+    text-decoration: none;
+    transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s;
+    -webkit-transition: all ease 0.3s;
+    -o-transition: all ease 0.3s;
+    -ms-transition: all ease 0.3s;
+}
+
+.social .fa-facebook:hover {
+    background: #4060A5;
+}
+
+.social .fa-twitter:hover {
+    background: #00ABE3;
+}
+
+.social .fa-google-plus:hover {
+    background: #e64522;
+}
+
+.social .fa-github:hover {
+    background: #343434;
+}
+
+.social .fa-pinterest:hover {
+    background: #cb2027;
+}
+
+.social .fa-linkedin:hover {
+    background: #0094BC;
+}
+
+.social .fa-flickr:hover {
+    background: #FF57AE;
+}
+
+.social .fa-instagram:hover {
+    background: #375989;
+}
+
+.social .fa-vimeo-square:hover {
+    background: #83DAEB;
+}
+
+.social .fa-stack-overflow:hover {
+    background: #FEA501;
+}
+
+.social .fa-dropbox:hover {
+    background: #017FE5;
+}
+
+.social .fa-tumblr:hover {
+    background: #3a5876;
+}
+
+.social .fa-dribbble:hover {
+    background: #F46899;
+}
+
+.social .fa-skype:hover {
+    background: #00C6FF;
+}
+
+.social .fa-stack-exchange:hover {
+    background: #4D86C9;
+}
+
+.social .fa-youtube:hover {
+    background: #FF1F25;
+}
+
+.social .fa-xing:hover {
+    background: #005C5E;
+}
+
+.social .fa-rss:hover {
+    background: #e88845;
+}
+
+.social .fa-foursquare:hover {
+    background: #09B9E0;
+}
+
+.social .fa-youtube-play:hover {
+    background: #DF192A;
+}
+
+.social .fa-soundcloud:hover {
+    background: #FF9900;
+}
+
+.buffer-left { padding-left:15px;
+
+}
+
+.buffer-top { padding-top: 80px;  
+
+}
+
+.greyback { background-color: #F7F7F7; color: #1F1F1F; padding-bottom: 30px; text-shadow: 0px 0px;
+
+}
+
+.greyback-2 { background-color: #F7F7F7; color: #1F1F1F; padding-bottom: 30px; padding-top: 30px; text-shadow: 0px 0px;
+
+}
+
+.dark-greyback { background-color: #252525; color: #FFFFFF; padding-bottom: 30px; padding-top: 30px; text-shadow: 2px 1px 6px black;
+
+}
+
+.light-greyback { background-color: #F7F7F7; color: #1F1F1F; padding-bottom: 30px; padding-top: 30px; text-shadow: 0px 0px;
+
+}
+
+.merch {background-color: #F7F7F7; color: #1F1F1F; text-shadow: 0px 0px;}
+
+.media-object { border-radius: 10%;
+    -moz-border-radius: 10%;
+    -webkit-border-radius: 10%;
+    -o-border-radius: 10%;
+    transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s;
+    -webkit-transition: all ease 0.3s;
+    -o-transition: all ease 0.3s;
+    -ms-transition: all ease 0.3s;
+}
+
+.jumbotron-image {background: url(../pics/shinjuku_2.jpg) no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;}
+
+  .2cover-container {
+    margin-right: auto;
+  margin-left: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background: #868686 rgba(20,50,4,.7);
+  padding-top: 30px; padding-bottom: 30px; }
+
+.special{color:#660066;}
+
+
+
+</style>
+
+    <title>Sympull</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!--load font awesome-->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <!--load heroic-features-->
+    <link href="../website/heroic-features.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="http://getbootstrap.com/examples/cover/cover.css" rel="stylesheet">
+
+
+    <!-- Merch App Stuff -->
+    
+        <link rel="stylesheet" href="../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4/BootstrapShoppingCart/BootstrapShoppingCart.css">
+        <link rel="stylesheet" href="../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4/BootstrapShoppingCart/animation.css">
+        <script src="../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4/vendor/jquery-ui-1.10.4.custom.min.js"></script>
+        
+
+        <!-- BootsrapBootstrapShoppingCart.js -->
+        <script src="../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4/BootstrapShoppingCart/BootstrapShoppingCart.js"></script>  
+        <script>
+            $(document).ready(function() {
+                // show current shoppingcart
+                $("#BSCart-Horizontal").load("../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4/BootstrapShoppingCart/addproduct_horizontal.php");
+                // anim buttons categories 
+                $('#animation_slideDown').addClass("slideDown");
+            });            
+        </script>
+
+        
+
+    
+</head>
+
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed social" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="../website/index.html">
+                <img alt="Brand" src="../pics/mastpiratelogo.png">
+                </a>
+            </div>
+
+            <div id="navbar" class="collapse navbar-collapse social">
+                <ul class="nav navbar-nav social">
+                <li><a href="../website/index.html">Home</a></li>
+                <li><a href="../website/bio.html">About</a></li>
+                <li><a href="#">Merch</a></li>
+                <li><a href="http://www.sympull.bandcamp.com" target="blank">Bandcamp</a></li>
+                <li><a href="http://www.patreon.com/sympull" target="blank">Patreon</a></li>
+                <li><a href="http://www.facebook.com/sympullmusic" target="blank"><i class="fa fa-lg fa-facebook"></i></a></li>
+                <li><a href="http://www.twitter.com/sympull" target="blank"><i class="fa fa-lg fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-lg fa-youtube-play"></i></a></li>
+                <li><a href="http://www.soundcloud.com/sympull" target="blank"><i class="fa fa-lg fa-soundcloud"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+   <div class="container-fluid">
+
+
+        <!-- Shoppingcart -->
+        <div class="navbar-nav navbar-inverse navbar-fixed-top" style="top: 40px;">
+        <div id="BSCart-Horizontal"></div>
+        </div>
+
+<!-- Jumbotron Header -->
+        <header class="jumbotron jumbotron-image hero-spacer">
+            
+            
+            <h1>The Online Merch-table</h1>
+            <p>Hey Guys, my musical family and I truely appreciate your support and patronage.  We know that your money is hard earned and are honored that you would throw some sheckels our way in order to keep the pirate ship afloat.</p>
+            <h3>-Sympull</h3>
+            
+
+            <p><a href="http://www.sympull.bandcamp.com" target="blank" class="btn btn-info btn-large">Purchase Music on Bandcamp</a>
+            </p>
+           
+         
+        </header>
+           
+        <hr>
+
+        <!-- Product categories -->       
+        <div class="container-fluid" style="margin-top: 90px;">
+            <div class="row" id="animation_slideDown">
+                <div class="col-md-12">
+                    <a href='../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4/shoppingcart_top.php?category=1' class='btn btn-default' style='margin-bottom:20px; margin-right:20px;'>T-shirts</a><a href='../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4/shoppingcart_top.php?category=2' class='btn btn-default' style='margin-bottom:20px; margin-right:20px;'>Headgear</a><a href='../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4/shoppingcart_top.php?category=3' class='btn btn-default' style='margin-bottom:20px; margin-right:20px;'>Stickers & Toys</a><a href='../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4/shoppingcart_top.php?category=4' class='btn btn-default' style='margin-bottom:20px; margin-right:20px;'>Albums</a><div class="visible-xs" style="padding-bottom: 30px;"><a href="shoppingcart_view.php" class="btn btn-primary" >View shoppingcart</a></div>
+                </div>
+            </div>
+        </div>
+
+      <!-- Products --> 
+        <div class="container-fluid" >
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="row"> 
+                        <section class="products">
+                                <div class="col-sm-3 col-md-3" data-id="1" data-type="select" data-quantity="1">
+        <div class="thumbnail">
+            <img src="../pics/little-t-test.jpg" alt="Sympull Face-Time T-shirt" class="img-responsive">
+            <div class="caption">
+                <p>
+                    Sympull Face-Time T-shirt<br /> <span class="offer">&nbsp;</span>
+
+                </p>
+                <p align="center">
+
+                     <select class="form-control combobox_type" style="margin-bottom: 6px;">
+                        <option value="select" selected>Select ...</option>
+                                                    <option value="18">S <span class="price">$25.00</span></option>
+                                                        <option value="19">M <span class="price">$25.00</span></option>
+                                                        <option value="20">L <span class="price">$25.00</span></option>
+                                                        <option value="21">XL <span class="price">$25.00</span></option>
+                                                </select>
+
+                    <a href="../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4product_sheet.php?id=1" class="btn btn-primary"><i class="icon-plus"></i>More</a> 
+                                            <a href="#" class="btn btn-info addproduct-horizontal"><i class="icon-shopping-cart"></i>Add</a>
+                                    </p>
+
+
+            </div>
+        </div>
+    </div>
+        <div class="col-sm-3 col-md-3" data-id="2" data-type="select" data-quantity="1">
+        <div class="thumbnail">
+            <img src="../pics/little-t-test.jpg" alt="product 2" class="img-responsive">
+            <div class="caption">
+                <p>
+                    product 2<br /><span class="offer">&nbsp;</span>   
+
+                </p>
+                                    <select class="form-control combobox_type" style="margin-bottom: 6px;">
+                        <option value="select" selected>Select ...</option>
+                                                    <option value="18">S <span class="price">$19.00</span></option>
+                                                        <option value="19">M <span class="price">$21.00</span></option>
+                                                        <option value="20">L <span class="price">$22.00</span></option>
+                                                </select>
+                    
+                <p align="center">
+                    <a href="../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4product_sheet.php?id=2" class="btn btn-primary"><i class="icon-plus"></i>More</a> 
+                                            <a href="#" class="btn btn-info addproduct-horizontal"><i class="icon-shopping-cart"></i>Add</a>
+                                    </p>
+            </div>
+        </div>
+    </div>
+        <div class="col-sm-3 col-md-3" data-id="3" data-type="" data-quantity="1">
+        <div class="thumbnail">
+            <img src="../pics/little-t-test.jpg" alt="Product 3" class="img-responsive">
+            <div class="caption">
+                <p>
+                    Product 3<br /><span class="price">$19.90</span>   
+
+                </p>
+                <div style="height: 40px;"></div>
+                <p align="center">
+                    <a href="../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4product_sheet.php?id=3" class="btn btn-primary"><i class="icon-plus"></i>More</a> 
+                                            <a href="#" class="btn btn-info addproduct-horizontal"><i class="icon-shopping-cart"></i>Add</a>
+                                    </p>
+            </div>
+        </div>
+    </div>
+        <div class="col-sm-3 col-md-3" data-id="4" data-type="" data-quantity="1">
+        <div class="thumbnail">
+            <img src="../pics/little-t-test.jpg" alt="Product 4" class="img-responsive">
+            <div class="caption">
+                <p>
+                    Product 4<br /><span class="price">$21.90</span>   
+
+                </p>
+                <div style="height: 40px;"></div>
+                <p align="center">
+                    <a href="../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4product_sheet.php?id=4" class="btn btn-primary"><i class="icon-plus"></i>More</a> 
+                                            <a href="#" class="btn btn-info addproduct-horizontal"><i class="icon-shopping-cart"></i>Add</a>
+                                    </p>
+            </div>
+        </div>
+    </div>
+        <div class="col-sm-3 col-md-3" data-id="5" data-type="" data-quantity="1">
+        <div class="thumbnail">
+            <img src="../pics/little-t-test.jpg" alt="Product 5" class="img-responsive">
+            <div class="caption">
+                <p>
+                    Product 5<br /><span class="price_overline">$19.90</span><span class="offer"> $14.90</span>   
+
+                </p>
+                <div style="height: 40px;"></div>
+                <p align="center">
+                    <a href="../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4product_sheet.php?id=5" class="btn btn-primary"><i class="icon-plus"></i>More</a> 
+                                            <a href="#" class="btn btn-info addproduct-horizontal"><i class="icon-shopping-cart"></i>Add</a>
+                                    </p>
+            </div>
+        </div>
+    </div>
+        <div class="col-sm-3 col-md-3" data-id="6" data-type="" data-quantity="1">
+        <div class="thumbnail">
+            <img src="../pics/little-t-test.jpg" alt="product 6" class="img-responsive">
+            <div class="caption">
+                <p>
+                    product 6<br /><span class="price">$39.90</span>   
+
+                </p>
+                <div style="height: 40px;"></div>
+                <p align="center">
+                    <a href="../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4product_sheet.php?id=6" class="btn btn-primary"><i class="icon-plus"></i>More</a> 
+                                            <a href="#" class="btn btn-info addproduct-horizontal"><i class="icon-shopping-cart"></i>Add</a>
+                                    </p>
+            </div>
+        </div>
+    </div>
+        <div class="col-sm-3 col-md-3" data-id="7" data-type="" data-quantity="1">
+        <div class="thumbnail">
+            <img src="../pics/little-t-test.jpg" alt="product 7" class="img-responsive">
+            <div class="caption">
+                <p>
+                    product 7<br /><span class="price">$39.90</span>   
+
+                </p>
+                <div style="height: 40px;"></div>
+                <p align="center">
+                    <a href="../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4product_sheet.php?id=7" class="btn btn-primary"><i class="icon-plus"></i>More</a> 
+                                            <a href="#" class="btn btn-info addproduct-horizontal"><i class="icon-shopping-cart"></i>Add</a>
+                                    </p>
+            </div>
+        </div>
+    </div>
+        <div class="col-sm-3 col-md-3" data-id="8" data-type="" data-quantity="1">
+        <div class="thumbnail">
+            <img src="../pics/little-t-test.jpg" alt="product 8" class="img-responsive">
+            <div class="caption">
+                <p>
+                    product 8<br /><span class="price">$34.90</span>   
+
+                </p>
+                <div style="height: 40px;"></div>
+                <p align="center">
+                    <a href="../website/codecanyon-5625102-bootstrap-shopping-cart-pack/Bootstrap_Shopping_Cart_Pack 1.2.4product_sheet.php?id=8" class="btn btn-primary"><i class="icon-plus"></i>More</a> 
+                                            <a href="#" class="btn btn-info addproduct-horizontal"><i class="icon-shopping-cart"></i>Add</a>
+                                    </p>
+            </div>
+        </div>
+    </div>
+                            </section>   
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; Your Website 2014</p>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+
+
+
+
+</body></html>

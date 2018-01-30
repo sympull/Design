@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="false"
+	cropToFit="false"
+	useFlash="true"
+	indexPageName="corporate.html"
+	title="Corporate"
+	galleryStyle="MODERN"
+
+>
+  <image imageURL="images/apta_1.jpg"
+	thumbURL="thumbs/apta_1.jpg"
+	linkURL="images/apta_1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[APTA Public Transportation (Cover)]]></caption>
+  </image>
+  <image imageURL="images/apta_2.jpg"
+	thumbURL="thumbs/apta_2.jpg"
+	linkURL="images/apta_2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[APTA Public Transportation (Spread)]]></caption>
+  </image>
+  <image imageURL="images/edsi_kr_1.jpg"
+	thumbURL="thumbs/edsi_kr_1.jpg"
+	linkURL="images/edsi_kr_1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[EDSI Knowledge Retention Brochure (Cover)]]></caption>
+  </image>
+  <image imageURL="images/edsi_kr_2.jpg"
+	thumbURL="thumbs/edsi_kr_2.jpg"
+	linkURL="images/edsi_kr_2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[EDSI Knowledge Retention Brochure (Spread Sample)]]></caption>
+  </image>
+  <image imageURL="images/edsi_kr_3.jpg"
+	thumbURL="thumbs/edsi_kr_3.jpg"
+	linkURL="images/edsi_kr_3.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[EDSI Knowledge Retention Brochure (Spread Sample)]]></caption>
+  </image>
+  <image imageURL="images/edsi_ms.jpg"
+	thumbURL="thumbs/edsi_ms.jpg"
+	linkURL="images/edsi_ms.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[EDSI_Mission Statement Banner Stand]]></caption>
+  </image>
+  <image imageURL="images/edsi_swp.jpg"
+	thumbURL="thumbs/edsi_swp.jpg"
+	linkURL="images/edsi_swp.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[EDSI SWP Email Blast]]></caption>
+  </image>
+  <image imageURL="images/edsi_tb_1.jpg"
+	thumbURL="thumbs/edsi_tb_1.jpg"
+	linkURL="images/edsi_tb_1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[EDSI Training Bootcamps Flyer]]></caption>
+  </image>
+  <image imageURL="images/edsi_tb_2.jpg"
+	thumbURL="thumbs/edsi_tb_2.jpg"
+	linkURL="images/edsi_tb_2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[EDSI Training Bootcamps Flyer]]></caption>
+  </image>
+  <image imageURL="images/edsi_tt.jpg"
+	thumbURL="thumbs/edsi_tt.jpg"
+	linkURL="images/edsi_tt.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[EDSI Table Throw]]></caption>
+  </image>
+  <image imageURL="images/ic_bs.jpg"
+	thumbURL="thumbs/ic_bs.jpg"
+	linkURL="images/ic_bs.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Intelectual Concepts Banner Stand]]></caption>
+  </image>
+  <image imageURL="images/skilldex_bs.jpg"
+	thumbURL="thumbs/skilldex_bs.jpg"
+	linkURL="images/skilldex_bs.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Skilldex Banner Stands]]></caption>
+  </image>
+  <image imageURL="images/skilldex_tt.jpg"
+	thumbURL="thumbs/skilldex_tt.jpg"
+	linkURL="images/skilldex_tt.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Skilldex Table Throw]]></caption>
+  </image>
+  <image imageURL="images/Rotary-Heavy-Duty_Print-1.jpg"
+	thumbURL="thumbs/Rotary-Heavy-Duty_Print-1.jpg"
+	linkURL="images/Rotary-Heavy-Duty_Print-1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mopar Rotary Heavy Duty (Cover)]]></caption>
+  </image>
+  <image imageURL="images/Rotary-Heavy-Duty_Print-Spread.jpg"
+	thumbURL="thumbs/Rotary-Heavy-Duty_Print-Spread.jpg"
+	linkURL="images/Rotary-Heavy-Duty_Print-Spread.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mopar Rotary Heavy Duty (Interior)]]></caption>
+  </image>
+  <image imageURL="images/Rotary-Heavy-Duty_Print-BC.jpg"
+	thumbURL="thumbs/Rotary-Heavy-Duty_Print-BC.jpg"
+	linkURL="images/Rotary-Heavy-Duty_Print-BC.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mopar Rotary Heavy Duty (Back Cover)]]></caption>
+  </image>
+  <image imageURL="images/7863_Collision_Flyer-1.jpg"
+	thumbURL="thumbs/7863_Collision_Flyer-1.jpg"
+	linkURL="images/7863_Collision_Flyer-1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mopar Colision Flyer (Cover)]]></caption>
+  </image>
+  <image imageURL="images/7863_Collision_Flyer-spread.jpg"
+	thumbURL="thumbs/7863_Collision_Flyer-spread.jpg"
+	linkURL="images/7863_Collision_Flyer-spread.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Mopar Colision Flyer (Spread)]]></caption>
+  </image>
+  <image imageURL="images/ma.jpg"
+	thumbURL="thumbs/ma.jpg"
+	linkURL="images/ma.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[MABMC (Flyer)]]></caption>
+  </image>
+  
+</simpleviewergallery>

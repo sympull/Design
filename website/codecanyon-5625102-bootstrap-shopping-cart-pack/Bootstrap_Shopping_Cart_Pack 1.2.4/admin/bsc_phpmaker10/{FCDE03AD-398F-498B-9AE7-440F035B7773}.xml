@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<configuration date="2014/04/20" author="e.World Technology Ltd.">
+<project id="{FCDE03AD-398F-498B-9AE7-440F035B7773}" file="C:\Users\gassiot\Desktop\Aenea\Products\web\Bootstrap Shopping Cart Pack\codecanyon.net\Bootstrap_Shopping_Cart_Pack 1.1\_phpmaker10_AdminProject\bsc_phpmaker10.pmp" name="bsc_phpmaker10" product="PHPMaker" version="10.0" datetime="2014/04/20 10:32:02" languagefolder="phplang" userlevel="0,&quot;Default&quot;,0">
+<table id="bsc_products" name="bsc_products" caption="Products" userlevel="0,&quot;Default&quot;,104" priv="1"/>
+<table id="bsc_category" name="bsc_category" caption="Categories" userlevel="0,&quot;Default&quot;,104" priv="1"/>
+<table id="bsc_types" name="bsc_types" caption="Types" userlevel="0,&quot;Default&quot;,104" priv="1"/>
+<table id="bsc_admin" name="bsc_admin" caption="Admin" userlevel="0,&quot;Default&quot;,104" priv="1"/>
+<table id="bsc_customers" name="bsc_customers" caption="Custormers" userlevel="0,&quot;Default&quot;,104" priv="1"/>
+<table id="bsc_order_header" name="bsc_order_header" caption="Orders" userlevel="0,&quot;Default&quot;,104" priv="1"/>
+<table id="bsc_order_detail" name="bsc_order_detail" caption="Order detail" userlevel="0,&quot;Default&quot;,104" priv="1"/>
+<table id="bsc_coupons" name="bsc_coupons" caption="bsc coupons" userlevel="0,&quot;Default&quot;,104" priv="1"/>
+<table id="bsc_sizes" name="bsc_sizes" caption="bsc sizes" userlevel="0,&quot;Default&quot;,104" priv="1"/>
+</project></configuration>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	resizeOnImport="false"
+	useFlickr="false"
+	cropToFit="false"
+	title="Advertising"
+	useFlash="true"
+	backgroundTransparent="false"
+	indexPageName="advertising.html"
+
+>
+  <image imageURL="images/heartfulness.jpg"
+	thumbURL="thumbs/heartfulness.jpg"
+	linkURL="images/heartfulness.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Heartfulness Conference 2016]]></caption>
+  </image>
+  <image imageURL="images/edsi_pcic.jpg"
+	thumbURL="thumbs/edsi_pcic.jpg"
+	linkURL="images/edsi_pcic.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Pre-College Internship Program]]></caption>
+  </image>
+  <image imageURL="images/edsi_con.jpg"
+	thumbURL="thumbs/edsi_con.jpg"
+	linkURL="images/edsi_con.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Improving Your Operations And Workforce]]></caption>
+  </image>
+  <image imageURL="images/edsi_ba.jpg"
+	thumbURL="thumbs/edsi_ba.jpg"
+	linkURL="images/edsi_ba.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[EDSI's Branded Apparel]]></caption>
+  </image>
+  <image imageURL="images/edsi_fp.jpg"
+	thumbURL="thumbs/edsi_fp.jpg"
+	linkURL="images/edsi_fp.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[EDSI Freepress Award]]></caption>
+  </image>
+  <image imageURL="images/5thave_1.jpg"
+	thumbURL="thumbs/5thave_1.jpg"
+	linkURL="images/5thave_1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[5th Avenue in Novi Ads]]></caption>
+  </image>
+  <image imageURL="images/5thave_2.jpg"
+	thumbURL="thumbs/5thave_2.jpg"
+	linkURL="images/5thave_2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[5th Avenue in Novi Ads]]></caption>
+  </image>
+  <image imageURL="images/3d.jpg"
+	thumbURL="thumbs/3d.jpg"
+	linkURL="images/3d.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[3D Flyer]]></caption>
+  </image>
+  <image imageURL="images/halloween.jpg"
+	thumbURL="thumbs/halloween.jpg"
+	linkURL="images/halloween.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Japanese Society Halloween Ad]]></caption>
+  </image>
+  
+</simpleviewergallery>

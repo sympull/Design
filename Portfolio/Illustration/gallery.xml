@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	resizeOnImport="false"
+	useFlickr="false"
+	cropToFit="false"
+	title="Illustration"
+	useFlash="true"
+	backgroundTransparent="false"
+	indexPageName="illustration.html"
+
+>
+<image imageURL="images/prince.jpg"
+	thumbURL="thumbs/prince.jpg"
+	linkURL="images/prince.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Prince Tribute]]></caption>
+  </image>
+  <image imageURL="images/bowie.jpg"
+	thumbURL="thumbs/bowie.jpg"
+	linkURL="images/bowie.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[David Bowie Tribute]]></caption>
+  </image>
+  <image imageURL="images/goober.jpg"
+	thumbURL="thumbs/goober.jpg"
+	linkURL="images/goober.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Goober ]]></caption>
+  </image>
+  <image imageURL="images/lotus-phantine.jpg"
+	thumbURL="thumbs/lotus-phantine.jpg"
+	linkURL="images/lotus-phantine.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Lotus Phantine]]></caption>
+  </image>
+  <image imageURL="images/cuthulu.jpg"
+	thumbURL="thumbs/cuthulu.jpg"
+	linkURL="images/cuthulu.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Cuthulu]]></caption>
+  </image>
+  <image imageURL="images/Nafarious-Salermander.jpg"
+	thumbURL="thumbs/Nafarious-Salermander.jpg"
+	linkURL="images/Nafarious-Salermander.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Nefarious Salamander]]></caption>
+  </image>
+  <image imageURL="images/andre-the-pirate.jpg"
+	thumbURL="thumbs/andre-the-pirate.jpg"
+	linkURL="images/andre-the-pirate.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Andre the Pirate]]></caption>
+  </image>
+  <image imageURL="images/captain-jax.jpg"
+	thumbURL="thumbs/captain-jax.jpg"
+	linkURL="images/captain-jax.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Captain Jax]]></caption>
+  </image>
+  <image imageURL="images/Shark-a-pede.jpg"
+	thumbURL="thumbs/Shark-a-pede.jpg"
+	linkURL="images/Shark-a-pede.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Shark-a-pede Character Design]]></caption>
+  </image>
+  <image imageURL="images/coi.jpg"
+	thumbURL="thumbs/coi.jpg"
+	linkURL="images/coi.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Coi T-shirt Design]]></caption>
+  </image>
+  <image imageURL="images/SB5000-color-test-1.jpg"
+	thumbURL="thumbs/SB5000-color-test-1.jpg"
+	linkURL="images/SB5000-color-test-1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Strato Blaster 5000]]></caption>
+  </image>
+  <image imageURL="images/hunnybunny.jpg"
+	thumbURL="thumbs/hunnybunny.jpg"
+	linkURL="images/hunnybunny.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Hunny Bunny]]></caption>
+  </image>
+ 
+  
+</simpleviewergallery>

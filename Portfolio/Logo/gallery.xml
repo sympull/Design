@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	resizeOnImport="false"
+	useFlickr="false"
+	cropToFit="false"
+	title="Logo"
+	useFlash="true"
+	backgroundTransparent="false"
+	indexPageName="logos.html"
+
+>
+  <image imageURL="images/asp.jpg"
+	thumbURL="thumbs/asp.jpg"
+	linkURL="http://www.facebook.com/andysandiferphoto"
+	linkTarget="_blank">
+    <caption><![CDATA[Andy Sandifer Photography]]></caption>
+  </image>
+  <image imageURL="images/dh.jpg"
+  thumbURL="thumbs/dh.jpg"
+  linkURL="http://www.donegalhill.com/"
+  linkTarget="_blank">
+    <caption><![CDATA[Donegal Hill]]></caption>
+  </image>
+  <image imageURL="images/carbu.jpg"
+  thumbURL="thumbs/carbu.jpg"
+  linkURL="http://plasancarbon.com/"
+  linkTarget="_blank">
+    <caption><![CDATA[Carbon U]]></caption>
+  </image>
+  <image imageURL="images/hrl.jpg"
+  thumbURL="thumbs/hrl.jpg">
+    <caption><![CDATA[HR Lifeline]]></caption>
+  </image>
+  <image imageURL="images/b2b.jpg"
+  thumbURL="thumbs/b2b.jpg"
+  linkURL="http://www.edsisolutions.com/"
+  linkTarget="_blank">
+    <caption><![CDATA[Backpacks 2 Briefcases (For EDSI)]]></caption>
+  </image>
+  <image imageURL="images/talent-team.jpg"
+  thumbURL="thumbs/talent-team.jpg"
+  linkURL="http://www.edsisolutions.com/"
+  linkTarget="_blank">
+    <caption><![CDATA[Talent Team (For EDSI)]]></caption>
+  </image>
+  <image imageURL="images/mabcmc.jpg"
+  thumbURL="thumbs/mabcmc.jpg"
+  linkURL="http://www.bcedc.com/newsletters/february-2015/316-manufacturing-alliance"
+  linkTarget="_blank">
+    <caption><![CDATA[Manufacturing Alliance of Bucks & Montgomery Counties]]></caption>
+  </image>
+  <image imageURL="images/bethel.jpg"
+  thumbURL="thumbs/bethel.jpg"
+  linkURL="http://www.bcchurchlive.com/"
+  linkTarget="_blank">
+    <caption><![CDATA[Bethel Belong]]></caption>
+  </image>
+  <image imageURL="images/driven.jpg"
+  thumbURL="thumbs/driven.jpg"
+  linkURL="http://www.bcchurchlive.com/"
+  linkTarget="_blank">
+    <caption><![CDATA[Driven Youth Ministries]]></caption>
+  </image>
+  <image imageURL="images/living_hope.jpg"
+  thumbURL="thumbs/living_hope.jpg"
+  linkURL="http://www.bcchurchlive.com/"
+  linkTarget="_blank">
+    <caption><![CDATA[Living Hope]]></caption>
+  </image>
+  <image imageURL="images/ccb.jpg"
+  thumbURL="thumbs/ccb.jpg">
+    <caption><![CDATA[Casey Craft Brewing]]></caption>
+  </image>
+  <image imageURL="images/mi.jpg"
+  thumbURL="thumbs/mi.jpg">
+    <caption><![CDATA[Monster Island (Hip-Hop Group)]]></caption>
+  </image>
+<image imageURL="images/nervrex.jpg"
+  thumbURL="thumbs/nervrex.jpg">
+    <caption><![CDATA[Nervous Rex (Brand)]]></caption>
+  </image>
+<image imageURL="images/mc.jpg"
+  thumbURL="thumbs/mc.jpg">
+    <caption><![CDATA[Monster Coffee (Brand)]]></caption>
+  </image>
+
+</simpleviewergallery>
